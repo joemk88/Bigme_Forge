@@ -2,9 +2,11 @@
 
 Wraps any glyph in the Bigme monochrome plate — a white squircle with a thin black outline and a centered black icon, matching the e-ink look of the Bigme OS system icons.
 
-👉 https://joemk88.github.io/Bigme_Forge/
+➡️ [**Link Here**]([https://novalauncher.com/](https://joemk88.github.io/Bigme_Forge/)) 
 
-It's a single self-contained HTML page. Paste app names, it finds a black-and-white glyph for each via the [Iconify](https://iconify.design) API, forges it onto the plate, and hands you back PNGs named after your input (`Service NSW → Service NSW.png`).
+<img width="1156" height="1061" alt="sss8-11 231252" src="https://github.com/user-attachments/assets/a4379670-f2fe-4cd4-878c-a6975fed1259" />
+
+It's a single self-contained HTML page. Paste app names, it finds a black-and-white glyph for each via the [Iconify](https://iconify.design) API, forges it onto the plate, and hands you back PNGs named after your input (`Spotify → Spotify.png`).
 
 \---
 
@@ -23,8 +25,6 @@ To use these icons you need a launcher that supports **custom per-app icons** (o
 Any launcher with a "change icon → choose image" feature will work — the PNGs are standard transparent-background images.
 
 \---
-
-<img width="1156" height="1061" alt="sss8-11 231252" src="https://github.com/user-attachments/assets/a4379670-f2fe-4cd4-878c-a6975fed1259" />
 
 
 ## Using it
